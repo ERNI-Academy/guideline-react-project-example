@@ -1,0 +1,25 @@
+const locale = {
+  Age: 'Age',
+  age: 'Age range',
+  ClearFilters: 'Clear filters',
+  EnterToCity: 'Enter to City',
+  ErrorDefault:'Something went wrong!',
+  Filter: 'Filter',
+  Friends: 'Friends',
+  HairColor: 'Hair color',
+  hair_color: 'Select hair color',
+  Height: 'Height',
+  height: 'Height range',
+  Name: 'Name',
+  NoFriends: 'Person with no friends, maybe he is an informatic',
+  professions: 'Select profession',
+  Professions: 'Professions',
+  SearchByPersonsName: "Search by name",
+  SelectToFilter: 'Select to filter',
+  Weight: 'Weight',
+  weight: 'Weight range',
+  YearsOld: 'years old',
+  YearOld: 'year old',
+}
+
+export default locale as {[key: string]: any};

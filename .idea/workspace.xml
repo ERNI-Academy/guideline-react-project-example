@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc7f0d71-41c6-4b07-b03c-dd06ab6a35b5" name="Changes" comment="finish bug fixing">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/react-course.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/actions/filterActions.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/actions/homeActions.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/actions/loadingActions.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/actions/modalActions.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/actions/personActions.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/actions/snackBarActions.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/appBar/AppBarComponent.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/appBar/styles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/expansionPanelComponent/ExpansionPanelComponent.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/expansionPanelComponent/styles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/filterComponent/FilterComponent.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/filterComponent/styles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/loading/Loading.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/loading/styles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/modal/Modal.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/modal/styles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/personInfo/PersonInfo.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/personInfo/styles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/snackBar/snackBar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/constants.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/urls.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/appInterfaces.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react-app-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react-query.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/filterReducers.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/homeReducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/listReducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/loadingReducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/modalReducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/personReducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/snackBarReducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router/rootRouter.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/cover/Cover.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/cover/styles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/personsList/PersonsList.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/personsList/styles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/serviceWorker.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/app.query.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/app.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/axios.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/queries.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/setupTests.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/enums.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/images/backgroundFog.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/images/cover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/images/dwarf.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/images/errorImage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/images/mine.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/images/workThumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/locale.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/models.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/utils.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/store.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/commonTypes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1yDQ2ihq2oWXdSosRGiiD2zuxlK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../react-course" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="C:\react-course\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\react-course\src\actions" />
+      <recent name="C:\react-course\src\reducers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\React-course\react-course\src" />
+      <recent name="C:\React-course\react-course\src\constants" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc7f0d71-41c6-4b07-b03c-dd06ab6a35b5" name="Changes" comment="" />
+      <created>1631783474221</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631783474221</updated>
+      <workItem from="1631783477013" duration="6437000" />
+      <workItem from="1631858445693" duration="16696000" />
+      <workItem from="1632130211763" duration="8105000" />
+      <workItem from="1632206396677" duration="7694000" />
+      <workItem from="1637158360503" duration="3209000" />
+      <workItem from="1637318128391" duration="610000" />
+      <workItem from="1637653649449" duration="13000" />
+      <workItem from="1637738303545" duration="4598000" />
+      <workItem from="1637764205165" duration="309000" />
+      <workItem from="1637764624551" duration="1186000" />
+    </task>
+    <task id="LOCAL-00001" summary="add react query">
+      <created>1631885986579</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1631885986579</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fix person data refresh">
+      <created>1632149323888</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1632149323888</updated>
+    </task>
+    <task id="LOCAL-00003" summary="finish">
+      <created>1632216603678</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1632216603678</updated>
+    </task>
+    <task id="LOCAL-00004" summary="finish bug fixing">
+      <created>1637764029961</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1637764029961</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add react query" />
+    <MESSAGE value="fix person data refresh" />
+    <MESSAGE value="finish" />
+    <MESSAGE value="finish bug fixing" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish bug fixing" />
+  </component>
+</project>
